@@ -1,0 +1,7 @@
+Questions for Nag:
+
+1) In TodoService, there is a URL with /users/Nag/..., how do you deal with that without hardcoding the user?
+
+2) How to deal with changing pages and removing elements while browser reloads?
+
+3) How to code printing transactions in PDF or Excel?
